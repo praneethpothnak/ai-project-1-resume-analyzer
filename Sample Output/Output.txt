@@ -1,0 +1,110 @@
+
+ANALYSIS BY TECHNICAL RECRUITER
+================================
+
+1. EXTRACTED TECHNICAL SKILLS (FROM THE RESUME TEXT)
+
+Based strictly on what is written:
+
+- Programming (basic knowledge) – unspecified language(s)
+- Artificial Intelligence (interest) – interest only, not a skill
+
+Reality check:
+There are no concrete, verifiable technical skills listed.
+Recruiters score skills on evidence, not intent.
+
+
+2. MISSING IMPORTANT SKILLS (CRITICAL GAPS)
+
+For a final-year Computer Science student, these are expected and currently missing:
+
+Core CS & Programming
+- At least one programming language (Python / Java / C++ / JavaScript)
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+
+AI / Tech Path (since AI interest is mentioned)
+- Python for AI
+- NumPy, Pandas
+- Basic Machine Learning concepts
+- Any AI/ML library (scikit-learn, TensorFlow, PyTorch)
+
+Practical Proof
+- Projects (academic or personal)
+- Git / GitHub
+- Basic SQL or databases
+
+Resume Fundamentals
+- Education details (degree, university, year)
+- Tools, platforms, or coursework
+- Outcomes (what was built or learned)
+
+
+3. RESUME SCORE (OUT OF 100)
+
+Score: 8 / 100
+
+Reasoning:
+- No measurable skills
+- No technologies named
+- No projects
+- No proof of ability
+- Reads like an introduction, not a resume
+
+This resume would be rejected in under 5 seconds by ATS or recruiters.
+
+
+4. FIVE HIGH-IMPACT IMPROVEMENTS
+
+1) Replace the summary with a skill-backed profile
+
+Bad:
+"basic knowledge of programming and interest in AI"
+
+Better:
+"Final-year Computer Science student skilled in Python and SQL, with hands-on experience building ML models and data analysis projects."
+
+2) Explicitly list programming languages
+Recruiters scan for keywords.
+Examples:
+- Python
+- Java
+- C++
+- SQL
+
+3) Add at least two small projects
+Examples:
+- Spam classifier using Python
+- Stock price prediction using ML
+- Student management system (Java)
+
+4) Create a dedicated Skills section
+
+Example:
+Technical Skills:
+- Languages: Python, Java
+- ML: Linear Regression, Classification
+- Tools: Git, VS Code
+- Databases: MySQL
+
+5) Stop using vague words
+
+Avoid:
+- basic knowledge
+- interest in
+- familiar with
+
+Use:
+- implemented
+- built
+- analyzed
+- developed
+
+
+FINAL VERDICT
+
+You are not underqualified.
+Your resume is underwritten.
+
+With proper structure and skills, this resume can be improved from 8/100 to 75+ within 2–3 months.
+

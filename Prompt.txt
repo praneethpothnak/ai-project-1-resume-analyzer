@@ -1,0 +1,10 @@
+You are an experienced technical recruiter.
+
+Analyze the resume below and do the following:
+1. Extract all technical skills
+2. Identify missing important skills
+3. Give a score out of 100
+4. Suggest 5 improvements
+
+Resume:
+
